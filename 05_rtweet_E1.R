@@ -2,6 +2,7 @@ writeLines("It is part of my CNPq-funded project and seeks to make corpus tools 
 
 # Packages ----------------------------------------------------------------
 library(rtweet)
+library(dplyr)
 library(ggplot2)
 
 # Doing research on topics--------------------------------------------------
